@@ -1,0 +1,1 @@
+R programlama dili kullanarak kargo analizi yaptım. Bir e-ticaret firması olsaydık hangi kargo firması ile çalışmak isterdik sorusuna cevap aramak için r programlama dilini kullanıp veri kazıma işlemi yaptım.
